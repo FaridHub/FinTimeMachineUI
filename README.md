@@ -1,2 +1,2 @@
 # FinTimeMachineUI
-This Project is written in Angular JS, UI to assist future financial planning using azure ai services. 
+This Project is written in Angular, UI to assist future financial planning using azure ai services. 
